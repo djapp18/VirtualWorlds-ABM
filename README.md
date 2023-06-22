@@ -13,7 +13,7 @@ Code for "[Polarization in Social Media: A Virtual Worlds-Based Approach](https:
 As social media becomes increasingly integrated within the fabric of our digital lives, it is clear that these platforms have a great impact on our mental well-being and interpersonal relationships. However, recent events and studies suggest that these changes are not always for the better as social media might contribute to social polarization. In this work, we leverage agent-based modelling (ABM) techniques to simulate the associated opinion dynamics of polarization in social media platforms. Specifically, we introduce a novel “virtual worlds” framework for representing an online social media platform. Agents from the neighbor constrained “real world” can “log-in” to these virtual worlds with a certain probability and participate in a complete network; this reflects the unique socioeconomic and geographic anonymity provided through social media. We find that the incorporation of virtual worlds can result in the simultaneous presence of different types of polarization in the real and virtual worlds.
 
 ## Requirements
-Computational experiments were done using *MATLAB R2022a*
+Computational experiments were done using *MATLAB R2022a*.
 
 ## Files
 
