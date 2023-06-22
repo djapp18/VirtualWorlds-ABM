@@ -79,3 +79,7 @@ We include some plots from a sample run of the *VirtualWorldSingleRun.m* file wi
    keywords = {Agent-Based-Model (ABM), Polarization Structure, Homophily, Polarization, Social Media Platforms},
 }		
 ```
+
+## Contact
+
+If you have any questions, feel free to contact Dennis Jacob at either djacob@princeton.edu or dennisjacob@icloud.com
