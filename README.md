@@ -14,7 +14,7 @@ Computational experiments were done using *MATLAB R2022a*
 
 **Directory tree**
 
-| <img src="./assets/VM_Explanation.png" align="center" width="100%" alt="explanation of virtual worlds" > | 
+| <img src="./assets/VW_Explanation.png" align="center" width="100%" alt="explanation of virtual worlds" > | 
 |:--:| 
 | *An illustration of the virtual worlds structure. All agents from the real world can optionally participate in as many "virtual worlds" as they wish. Note that each virtual world is complete, allowing for connections among agents which are not possible in the real world graph.* |
 
@@ -48,15 +48,15 @@ The following is a directory tree which specifies the organization of this proje
 ## Sample runs
 We include some plots from a sample run of the *VirtualWorldSingleRun.m* file with two virtual worlds. Note the presence of un-structural polarization the real world while there is structural polarization across the virtual worlds.
 
-| <img src="./assets/VW_SingleRun_Start.png" align="center" width="50%" alt="virtual worlds starting system state" > | 
+| <img src="./assets/VW_SingleRun_Start.png" align="center" width="100%" alt="virtual worlds starting system state" > | 
 |:--:| 
 | *System state of the agents in the real world at the beginning of the simulation run. Color corresponds to which opinion an agent associates with, while size represents the strength of the conviction.* |
 
-| <img src="./assets/VW_SingleRun_Final.png" align="center" width="50%" alt="virtual worlds ending system state" > | 
+| <img src="./assets/VW_SingleRun_Final.png" align="center" width="100%" alt="virtual worlds ending system state" > | 
 |:--:| 
 | *System state of the agents in the real world at the end of the simulation run. Note most agents have become strongly conviced in their associated opinion, but there are no large clusters; thus we have un-structural polarization in the real world.* |
 
-| <img src="./assets/VW_SingleRun_Ratio.png" align="center" width="50%" alt="virtual worlds evaluation ratios" > | 
+| <img src="./assets/VW_SingleRun_Ratio.png" align="center" width="100%" alt="virtual worlds evaluation ratios" > | 
 |:--:| 
 | *Time evolution of virtual world ratios for the simulation run. Note that both virtual worlds demonstrate clearly distinct ratios, demonstrating structural polarization.* |
 
